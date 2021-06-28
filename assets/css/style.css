@@ -1,0 +1,19 @@
+body {
+    background-color: #ede7f6;
+}
+ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 70%;
+    margin: 0 auto;
+}        
+
+li {
+    flex: 1;
+    margin: 5px;
+}
+
+.card {
+    min-width: 250px;
+}

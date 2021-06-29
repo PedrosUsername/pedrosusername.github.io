@@ -2,7 +2,7 @@
 Um repo pra galera do Hiring Coders colaborar, aprender, brincar e se conhecer!
 Faça um pull request com sua modificação que eu subo o código no endereço:
 
-pedrosusername.github.io
+http://pedrosusername.github.io
 
 ### Links Interessantes:
 

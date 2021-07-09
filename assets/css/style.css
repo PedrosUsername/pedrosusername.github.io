@@ -1,13 +1,14 @@
 body {
     background-color: #ede7f6;
 }
+
 ul {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     width: 70%;
     margin: 0 auto;
-}        
+}
 
 li {
     flex: 1;
@@ -16,4 +17,11 @@ li {
 
 .card {
     min-width: 250px;
+}
+
+.card-picture-template {
+    object-fit: contain;
+    max-width: 250px;
+    max-height: 200px;
+    margin: 0 auto;
 }

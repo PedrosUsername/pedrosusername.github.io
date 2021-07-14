@@ -17,6 +17,22 @@ li {
 
 .card {
     min-width: 250px;
+    height: 350px;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-content {
+    display: flex;
+    height: 150px;
+    flex-direction: column;
+}
+
+.card-content span {
+    flex: 1;
 }
 
 .card-picture-template {
